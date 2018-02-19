@@ -5,3 +5,4 @@ whiskey - 30
 
 smetana
 blatove
+shokolad
